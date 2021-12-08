@@ -1,7 +1,7 @@
 ---
-title: "Welcome to Portifolio do Luciano Maria"
+title: "Portifolio do Luciano Maria"
 description: |
-  Welcome to our new blog, Portifolio do Luciano Maria. We hope you enjoy 
+  Portifolio do Luciano Maria. We hope you enjoy 
   reading what we have to say!
 author:
   - name: Nora Jones 

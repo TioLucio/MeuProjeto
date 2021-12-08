@@ -15,5 +15,22 @@
     "preview": {},
     "last_modified": "2021-12-08T07:44:18-03:00",
     "input_file": {}
+  },
+  {
+    "path": "posts/2021-12-08-analise-de-base-rais/",
+    "title": "Analise de base RAIS",
+    "description": "Essa analise teve como objetivo analisar os salrios da base de dados RAIS. Essa projeto foi feito na Semana Data Science na Pratica CursoR",
+    "author": [
+      {
+        "name": "Luciano Maria",
+        "url": {}
+      }
+    ],
+    "date": "2021-12-08",
+    "categories": [],
+    "contents": "\r\nEsse é meu primeiro projeto no portfólio\r\n\r\n\r\n\r\n",
+    "preview": {},
+    "last_modified": "2021-12-08T08:38:33-03:00",
+    "input_file": "analise-de-base-rais.knit.md"
   }
 ]

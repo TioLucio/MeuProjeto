@@ -9,15 +9,35 @@ author:Luciano Maria
     output:
   distill::distill_article:
     self_contained: false
-    
 ---
-
 
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(echo = FALSE)
 ```
 
-Esse é meu primeiro Projeto no portfólio
+Esse é meu **primeiro Projeto** no *portfólio*
 
+~~Riscar um texto~~
 
+Formatar um texto como código: `usethis::use_git()`
 
+Como colocar um link? [Blog da Curso R](https://blog.curso-r.com/)
+
+Nomear pessoas que estão aqui:
+
+Lista não numerada
+
+-   Bia
+
+-   Julia
+
+-   Fernando
+
+-   Teresa
+
+    Lista numerada:
+
+    1.  Bia
+    2.  Julia
+    3.  Fernando
+    4.  Teresa
