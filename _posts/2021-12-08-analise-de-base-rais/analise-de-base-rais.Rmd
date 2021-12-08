@@ -1,0 +1,18 @@
+---
+title: "Analise de base RAIS"
+description: |
+  Essa analise teve como objetivo analisar os salrios da base de dados RAIS. Essa projeto foi feito na Semana Data Science na Pratica CursoR
+author:
+  - name: Luciano Maria
+date: 2021-12-08
+output:
+  distill::distill_article:
+    self_contained: false
+---
+
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+Esse é meu primeiro projeto no portfólio
